@@ -1,11 +1,16 @@
 ## Oiii! Eu sou o Eduardo Moisés 
+
+![capa github](https://uploaddeimagens.com.br/images/003/359/405/full/debra.png?1627597977)
+
+
 <div align="center">
 
 <div align="center">
 <a href="https://github.com/emoises">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=emoises&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=emoises&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emoises&layout=compact&langs_count=7&theme=vue"/>
 </div>
+
 <div style="display: inline_block"><br>
 <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -18,9 +23,9 @@
 
 </div>
 </div>
+
 <!-- 
 🎶👻
-
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
