@@ -1,6 +1,6 @@
 ## Oiii! Eu sou o Eduardo Moisés 
 
-![capa github](https://uploaddeimagens.com.br/images/003/359/405/full/debra.png?1627597977)
+![capa github](https://raw.githubusercontent.com/emoises/emoises/main/assests/banner-github.png)
 
 
 <div align="center">
