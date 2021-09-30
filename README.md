@@ -2,35 +2,11 @@
 <img src="https://raw.githubusercontent.com/emoises/emoises/main/assests/banner-github.png">
 <!-- ![capa github](https://raw.githubusercontent.com/emoises/emoises/main/assests/banner-github.png) -->
 </a>
-<div>
-    <table>
-    <tr>
-    <td>
-        <img src="https://img.shields.io/github/followers/emoises.svg?style=social&label=Follow&maxAge=2592000">
-    </td>
-    </tr>
-    </table>
-    <table>
-    <tr>
-        <td>
-            <a href="https://www.instagram.com/automattizze/">
-                <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
-                >
-            </a>
-        </td>
-        <td>
-            <a href="https://www.linkedin.com/in/eduardomoises/">
-                <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-            </a>
-        </td>
-        <td>
-            <a href="https://gobeyond-portifolio-edumoises.vercel.app/">
-                <img src="https://raw.githubusercontent.com/emoises/emoises/main/assests/portifolium.png">
-            </a>
-        </td>
-    </tr>
-    </table>
-</div>
+
+![Readme Card](https://img.shields.io/github/followers/emoises.svg?style=social&label=Follow&maxAge=2592000)
+
+[![Readme Card](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/automattizze/) [![Readme Card](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardomoises/) [![Readme Card](https://raw.githubusercontent.com/emoises/emoises/main/assests/portifolium.png)](https://gobeyond-portifolio-edumoises.vercel.app/)
+
 <div>
     <table>
         <tr>
@@ -91,5 +67,4 @@
 
 <!-- | | | |
 |:--:|:--:|:--:|
-|[![Readme Card]()]()| [![Readme Card]()]()|[![Readme Card]()]()|
 |[![Readme Card]()]()| [![Readme Card]()]()|[![Readme Card]()]()| -->
