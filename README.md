@@ -24,8 +24,8 @@
             </a>
         </td>
         <td>
-            <a href="https://www.linkedin.com/in/eduardomoises/">
-                <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+            <a href="https://gobeyond-portifolio-edumoises.vercel.app/">
+                <img src="https://raw.githubusercontent.com/emoises/emoises/main/assests/portifolium.png">
             </a>
         </td>
     </tr>
