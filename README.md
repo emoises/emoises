@@ -1,5 +1,36 @@
-![capa github](https://raw.githubusercontent.com/emoises/emoises/main/assests/banner-github.png)
-
+<a href="https://gobeyond-portifolio-edumoises.vercel.app/" >
+<img src="https://raw.githubusercontent.com/emoises/emoises/main/assests/banner-github.png">
+<!-- ![capa github](https://raw.githubusercontent.com/emoises/emoises/main/assests/banner-github.png) -->
+</a>
+<div>
+    <table>
+    <tr>
+    <td>
+        <img src="https://img.shields.io/github/followers/emoises.svg?style=social&label=Follow&maxAge=2592000">
+    </td>
+    </tr>
+    </table>
+    <table>
+    <tr>
+        <td>
+            <a href="https://www.instagram.com/automattizze/">
+                <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
+                >
+            </a>
+        </td>
+        <td>
+            <a href="https://www.linkedin.com/in/eduardomoises/">
+                <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+            </a>
+        </td>
+        <td>
+            <a href="https://www.linkedin.com/in/eduardomoises/">
+                <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+            </a>
+        </td>
+    </tr>
+    </table>
+</div>
 <div>
     <table>
         <tr>
@@ -21,7 +52,44 @@
 
 </div>
 
+<table>
+<tr>
+    <td>
+        <a href="https://github.com/emoises/gobeyond-desafio--portif-lio" >
+            <img src="https://github-readme-stats-emoises.vercel.app/api/pin/?username=emoises&repo=gobeyond-desafio--portif-lio&theme=react">
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/emoises/gobeyond-final-challenge-emoises" >
+            <img heigth="auto" src="https://github-readme-stats-emoises.vercel.app/api/pin/?username=emoises&repo=gobeyond-final-challenge-emoises&theme=react">
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/emoises/bootcamp-igti-trabalho-pratico-react-modulo03" >
+            <img src="https://github-readme-stats-emoises.vercel.app/api/pin/?username=emoises&repo=bootcamp-igti-trabalho-pratico-react-modulo03&theme=react">
+        </a>
+    </td>
+</tr>
+<tr>
+    <td>
+        <a height="100%" href="https://github.com/emoises/beTheHero-semanaOmnistack" >
+            <img src="https://github-readme-stats-emoises.vercel.app/api/pin/?username=emoises&repo=beTheHero-semanaOmnistack&theme=react">
+        </a>
+    </td>
+    <td>
+        <a height="100%" href="https://github.com/emoises/NLW-Ecoleta-RocketSeat" >
+            <img src="https://github-readme-stats-emoises.vercel.app/api/pin/?username=emoises&repo=NLW-Ecoleta-RocketSeat&theme=react">
+        </a>
+    </td>
+    <td>
+        <a height="100%" href="https://github.com/emoises/hiringcoders2-desafio-3" display="block">
+            <img src="https://github-readme-stats-emoises.vercel.app/api/pin/?username=emoises&repo=hiringcoders2-desafio-3&theme=react">
+        </a>
+    </td>
+</tr>
+</table>
 
-| | | |
+<!-- | | | |
 |:--:|:--:|:--:|
-|[![Readme Card](https://github-readme-stats-emoises.vercel.app/api/pin/?username=emoises&repo=github-readme-stats&theme=react)](https://github.com/emoises/gobeyond-desafio--portif-lio)| [![Readme Card](https://github-readme-stats-emoises.vercel.app/api/pin/?username=emoises&repo=github-readme-stats&theme=react)](https://github.com/emoises/gobeyond-final-challenge-emoises)|[![Readme Card](https://github-readme-stats-emoises.vercel.app/api/pin/?username=emoises&repo=github-readme-stats&theme=react)](https://github.com/emoises/gobeyond-deseafio-javascript-calcula-salarios)|
+|[![Readme Card]()]()| [![Readme Card]()]()|[![Readme Card]()]()|
+|[![Readme Card]()]()| [![Readme Card]()]()|[![Readme Card]()]()| -->
